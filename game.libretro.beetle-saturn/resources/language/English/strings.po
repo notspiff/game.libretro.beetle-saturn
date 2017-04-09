@@ -39,3 +39,4 @@ msgstr ""
 msgctxt "#30005"
 msgid "Last scanline PAL"
 msgstr ""
+
